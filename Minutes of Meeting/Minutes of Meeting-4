@@ -1,0 +1,26 @@
+Meeting 4
+In Person Elicitation Workshop Meeting,
+On 09/18/2021 – 8:30AM To 11AM 
+Attendees-
+•	Siva Kumar Sri Sai Pulavarthy
+•	Ganesh Bommisetty
+•	Akhil Kata
+•	Shasidhar Jampana
+•	Sandeep Gangullapattu
+•	Satish Babu Nalajala
+•	And Team: Runtime_Terror
+
+
+
+Things Discussed-
+Discussions about Our Project i.e. The Bowl
+•	Explained Team: Runtime_Terror about our planning and vision in developing our project.
+•	Explained them about the approaches we are going to use.
+•	Discussed about the various features and interface designs we will be developing.
+•	Finally, asked if Team: Runtime_ Terror would provide any inputs or feature ideas that they would like to see in our project.
+
+Feature Requests by Team: Runtime_Terror:
+•	Team: Runtime_Terror asked us to implement a feature which would differentiate our project from already existing projects. 
+•	We proposed a feature which Runtime_Terror Team liked, the idea is: When a customer orders a bowl and in any case wants to cancel the order, instead of wasting the already prepared bowl, we display it in a separate section to be bought by other customers at a discounted price. By adding this feature, there will be less food wastage and will help a customer in a hurry to purchase food quickly.
+•	Team: Runtime_Terror proposed to add an “Estimated Time” Timer based on number of chefs available and pre-existing orders but keeping the time lines in mind we turned down this proposal as we will have to make other changes to our implementation if we need to include this feature.
+•	We discussed about Team: Runtime_Terror’s project, understood it and proposed features they could add to their project. 
